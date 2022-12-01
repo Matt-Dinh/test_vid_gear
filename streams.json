@@ -1,0 +1,72 @@
+{
+    "MP1_GD12": [
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/602",
+        "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/702"
+    ],
+    "MP1_GD3": [
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/602"
+    ],
+    "MP2": [
+        "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/602"
+    ],
+    "MP3_1": [
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/602"
+    ],
+    "MP3_3": [
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/602"
+    ],
+    "MP3_4": [
+        "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/602"
+    ],
+    "Bau_Bang": [
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/602"
+    ],
+    "Bau_Bang_Mo_Rong": [
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/202",
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/602"
+    ],
+    "Thoi_Hoa": [
+        "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/102",
+        "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/302",
+        "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/402",
+        "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/502",
+        "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/602"
+    ]
+
+}

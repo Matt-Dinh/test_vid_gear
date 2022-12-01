@@ -1,0 +1,328 @@
+{
+    "MP1_GD12": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8001,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8002,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8003,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8004,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd12.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8005,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "MP1_GD3": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8006,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8007,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8008,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8009,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp1-gd3.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8010,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "MP2": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8011,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8012,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8013,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp2-gd12.cameraddns.net/Streaming/channels/602",
+            "host": "192.168.1.68",
+            "port": 8014,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "MP3_1": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8015,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8016,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8017,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8018,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-1.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8019,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "MP3_3": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8020,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8021,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8022,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8023,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-3.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8024,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "MP3_4": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8025,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8026,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8027,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8028,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@mp3-4.cameraddns.net/Streaming/channels/602",
+            "host": "192.168.1.68",
+            "port": 8029,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "Bau_Bang": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8030,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8031,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8032,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8033,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@nhamaybaubang.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8034,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "Bau_Bang_Mo_Rong": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8035,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/202",
+            "host": "192.168.1.68",
+            "port": 8036,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8037,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8038,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@baubangmorong.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8039,
+            "width": 380,
+            "height": 370
+        }
+    },
+    "Thoi_Hoa": {
+        "cam1": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/101",
+            "host": "192.168.1.68",
+            "port": 8040,
+            "width": 937,
+            "height": 787
+        },
+        "cam2": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/302",
+            "host": "192.168.1.68",
+            "port": 8041,
+            "width": 380,
+            "height": 370
+        },
+        "cam3": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/402",
+            "host": "192.168.1.68",
+            "port": 8042,
+            "width": 380,
+            "height": 370
+        },
+        "cam4": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/502",
+            "host": "192.168.1.68",
+            "port": 8043,
+            "width": 380,
+            "height": 370
+        },
+        "cam5": {
+            "rtsp_stream": "rtsp://becamex:Cntt%401234@thoihoa.cameraddns.net/Streaming/channels/602",
+            "host": "192.168.1.68",
+            "port": 8044,
+            "width": 380,
+            "height": 370
+        }
+    }
+}
