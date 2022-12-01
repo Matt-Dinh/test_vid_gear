@@ -16,4 +16,4 @@ starlette==0.22.0
 tqdm==4.64.1
 urllib3==1.26.13
 uvicorn==0.20.0
-vidgear==0.2.6
+vidgear[core]
